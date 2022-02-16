@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(0, 17, 255);
+    background-image: url(../imgs/flu.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
